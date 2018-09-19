@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Write\ a\ description\ of\ class\ SummativeTest\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ age
+comment1.target=Student(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SummativeTest\n
+comment2.params=
+comment2.target=Student()
+numComments=3
